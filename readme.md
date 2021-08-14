@@ -11,7 +11,7 @@ UI is in just plain html not added css for clean UI because my main aim to imple
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iv)  voting -> index.ejs <br />
 2)Business Logic layer (Routers Folder)<br />
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; i) Business logic for Admin is inside in index.js<br />
-          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ii) Business logic for user is inside in user.js <br />  I
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ii) Business logic for user is inside in user.js <br />  
 3)Data layer (Datalayer Folder)<br />
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; i)data.js file containes logic of Data Access layer<br />
 
